@@ -19,10 +19,13 @@ A simple and beautiful collection of animated social media buttons using **HTML*
 - Responsive layout  
 - Clean and minimal code
 
+## 🧙‍♀️ Author
+
+Made with ❤️ by **Ankita Thorve**
+
 ## 🚀 How to Use
 
 **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/social-media-buttons-animation.git
 
-  ## 📁 Folder Structure
+   ```bash
+   git clone [https://github.com/yourusername/social-media-buttons-animation.git](https://ankitathorve.github.io/social-media-button-animation/)
