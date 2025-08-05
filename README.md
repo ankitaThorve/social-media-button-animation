@@ -4,7 +4,7 @@ A simple and beautiful collection of animated social media buttons using **HTML*
 
 ## ✨ Preview
 
-![Social Media Buttons Animation Preview](preview.mp4)  
+![Social Media Buttons Animation Preview](preview.gif)  
 
 
 ## 🔧 Built With
